@@ -1,0 +1,4 @@
+,1,12345678912365,01028464487,ahmed@gamil.com,Omar,ibrahim,male,20,ICT,1,cairo
+,2,98745632102145,01229516156,khaled@gmail.com,khaled,adnan,male,20,ICT,1,alex
+,3,56487963215632,01556446516,ahemd@gmail.com,ahemd,mostafa,male,20,ICT,1,giza
+,4,12345678988888,01155570684,ahmedhossam7x@gmail.com,Ahmed,Hossam,male,21,ICT,4,zafta

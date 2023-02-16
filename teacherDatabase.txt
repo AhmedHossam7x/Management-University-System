@@ -1,0 +1,3 @@
+,1,12345678912361,01056446516,mohamed@gmail.com,mohamed,adel,male,30,alex,60000
+,2,12345678912362,01156446516,ahmed@gmail.com,ahmed,ali,male,22,cairo,60000
+,3,12345678912363,01256446516,khaled@gmail.com,khaled,mosaad,male,45,giza,60000
